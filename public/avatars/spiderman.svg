@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <radialGradient id="spg" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#EF4444"/>
+      <stop offset="70%" stop-color="#DC2626"/>
+      <stop offset="100%" stop-color="#991B1B"/>
+    </radialGradient>
+    <linearGradient id="eyeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#E2E8F0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="url(#spg)" stroke="#7F1D1D" stroke-width="2"/>
+  <path d="M50,15 Q50,50 50,85 M20,50 Q50,50 80,50" stroke="#1E293B" stroke-width="1.2" fill="none" opacity="0.75"/>
+  <path d="M28,28 Q50,50 72,72 M28,72 Q50,50 72,28" stroke="#1E293B" stroke-width="1.2" fill="none" opacity="0.75"/>
+  <path d="M38,38 Q50,42 62,38 Q66,50 62,62 Q50,58 38,62 Q34,50 38,38 Z" stroke="#1E293B" stroke-width="1.2" fill="none" opacity="0.7"/>
+  <path d="M26,26 Q50,33 74,26 Q81,50 74,74 Q50,67 26,74 Q19,50 26,26 Z" stroke="#1E293B" stroke-width="1.2" fill="none" opacity="0.6"/>
+  <path d="M23,45 Q26,30 45,39 Q38,58 23,45 Z" fill="#0F172A" stroke="#0F172A" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M26,44 Q28,33 42,40 Q36,54 26,44 Z" fill="url(#eyeGrad)"/>
+  <path d="M77,45 Q74,30 55,39 Q62,58 77,45 Z" fill="#0F172A" stroke="#0F172A" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M74,44 Q72,33 58,40 Q64,54 74,44 Z" fill="url(#eyeGrad)"/>
+  <circle cx="50" cy="50" r="48" fill="none" stroke="#F87171" stroke-width="1.5" opacity="0.5"/>
+</svg>

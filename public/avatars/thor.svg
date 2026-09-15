@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="thorBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#334155"/>
+      <stop offset="60%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="thorHelmet" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F1F5F9"/>
+      <stop offset="50%" stop-color="#94A3B8"/>
+      <stop offset="100%" stop-color="#475569"/>
+    </linearGradient>
+    <linearGradient id="thorHair" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="100%" stop-color="#CA8A04"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="url(#thorBg)" stroke="#38BDF8" stroke-width="1.5"/>
+  <path d="M22,46 Q18,72 32,84 Q34,70 30,52 Z" fill="url(#thorHair)"/>
+  <path d="M78,46 Q82,72 68,84 Q66,70 70,52 Z" fill="url(#thorHair)"/>
+  <path d="M36,44 Q50,48 64,44 Q62,72 50,78 Q38,72 36,44 Z" fill="#FED7AA"/>
+  <path d="M30,34 Q50,22 70,34 L66,46 L50,49 L34,46 Z" fill="url(#thorHelmet)" stroke="#475569" stroke-width="1"/>
+  <path d="M28,40 Q14,24 20,12 Q28,26 32,36 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="1"/>
+  <path d="M72,40 Q86,24 80,12 Q72,26 68,36 Z" fill="#E2E8F0" stroke="#64748B" stroke-width="1"/>
+  <path d="M46,6 L52,14 L48,17 L56,26" stroke="#38BDF8" stroke-width="1.5" fill="none" opacity="0.9"/>
+  <circle cx="43" cy="54" r="2.5" fill="#0284C7"/>
+  <circle cx="57" cy="54" r="2.5" fill="#0284C7"/>
+</svg>

@@ -1,0 +1,3962 @@
+[
+  {
+    "id": "google",
+    "name": "Google",
+    "tier": "FAANG",
+    "logo": "terminal"
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "tier": "FAANG",
+    "logo": "terminal"
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "tier": "FAANG",
+    "logo": "terminal"
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "tier": "FAANG",
+    "logo": "terminal"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "tier": "FAANG",
+    "logo": "terminal"
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "tier": "FAANG",
+    "logo": "terminal"
+  },
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "tier": "AI & Frontier",
+    "logo": "psychology"
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "tier": "AI & Frontier",
+    "logo": "psychology"
+  },
+  {
+    "id": "nvidia",
+    "name": "Nvidia",
+    "tier": "AI & Frontier",
+    "logo": "psychology"
+  },
+  {
+    "id": "databricks",
+    "name": "Databricks",
+    "tier": "AI & Frontier",
+    "logo": "psychology"
+  },
+  {
+    "id": "snowflake",
+    "name": "Snowflake",
+    "tier": "AI & Frontier",
+    "logo": "psychology"
+  },
+  {
+    "id": "palantir",
+    "name": "Palantir",
+    "tier": "AI & Frontier",
+    "logo": "psychology"
+  },
+  {
+    "id": "scale-ai",
+    "name": "Scale Ai",
+    "tier": "AI & Frontier",
+    "logo": "psychology"
+  },
+  {
+    "id": "anyscale",
+    "name": "Anyscale",
+    "tier": "AI & Frontier",
+    "logo": "psychology"
+  },
+  {
+    "id": "bloomberg",
+    "name": "Bloomberg",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "goldman-sachs",
+    "name": "Goldman Sachs",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "jpmorgan",
+    "name": "JPMorgan Chase",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "morgan-stanley",
+    "name": "Morgan Stanley",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "citadel",
+    "name": "Citadel",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "jane-street",
+    "name": "Jane Street",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "two-sigma",
+    "name": "Two Sigma",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "de-shaw",
+    "name": "D.E. Shaw",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "jump-trading",
+    "name": "Jump Trading",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "optiver",
+    "name": "Optiver",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "drw",
+    "name": "DRW",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "akuna-capital",
+    "name": "Akuna Capital",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "stripe",
+    "name": "Stripe",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "coinbase",
+    "name": "Coinbase",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "robinhood",
+    "name": "Robinhood",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "paypal",
+    "name": "PayPal",
+    "tier": "Fintech / Quant",
+    "logo": "trending_up"
+  },
+  {
+    "id": "uber",
+    "name": "Uber",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "lyft",
+    "name": "Lyft",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "airbnb",
+    "name": "Airbnb",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "bytedance",
+    "name": "ByteDance",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "snapchat",
+    "name": "Snapchat",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "doordash",
+    "name": "DoorDash",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "instacart",
+    "name": "Instacart",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "dropbox",
+    "name": "Dropbox",
+    "tier": "Top Tech",
+    "logo": "rocket_launch"
+  },
+  {
+    "id": "flipkart",
+    "name": "Flipkart",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "swiggy",
+    "name": "Swiggy",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "zomato",
+    "name": "Zomato",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "razorpay",
+    "name": "Razorpay",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "cred",
+    "name": "CRED",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "phonepe",
+    "name": "PhonePe",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "paytm",
+    "name": "Paytm",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "meesho",
+    "name": "Meesho",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "dream11",
+    "name": "Dream11",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "ola",
+    "name": "Ola",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "oyo",
+    "name": "Oyo",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "zepto",
+    "name": "Zepto",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "blinkit",
+    "name": "Blinkit",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "browserstack",
+    "name": "BrowserStack",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "postman",
+    "name": "Postman",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "inmobi",
+    "name": "InMobi",
+    "tier": "Indian Tech",
+    "logo": "shopping_cart"
+  },
+  {
+    "id": "adobe",
+    "name": "Adobe",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "salesforce",
+    "name": "Salesforce",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "cisco",
+    "name": "Cisco",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "ibm",
+    "name": "IBM",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "intel",
+    "name": "Intel",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "amd",
+    "name": "AMD",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "qualcomm",
+    "name": "Qualcomm",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "servicenow",
+    "name": "ServiceNow",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "intuit",
+    "name": "Intuit",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "atlassian",
+    "name": "Atlassian",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "sap",
+    "name": "SAP",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "vmware",
+    "name": "VMware",
+    "tier": "Big Tech",
+    "logo": "business"
+  },
+  {
+    "id": "1kosmos",
+    "name": "1kosmos",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "6sense",
+    "name": "6sense",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "accelya",
+    "name": "Accelya",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "accenture",
+    "name": "Accenture",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "accolite",
+    "name": "Accolite",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "acko",
+    "name": "Acko",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "acorns",
+    "name": "Acorns",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "activision",
+    "name": "Activision",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "adp",
+    "name": "Adp",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "aetion",
+    "name": "Aetion",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "affinity",
+    "name": "Affinity",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "affirm",
+    "name": "Affirm",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "agoda",
+    "name": "Agoda",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "airbus",
+    "name": "Airbus",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "airtel",
+    "name": "Airtel",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "airwallex",
+    "name": "Airwallex",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "akamai",
+    "name": "Akamai",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "alibaba",
+    "name": "Alibaba",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "allincall",
+    "name": "Allincall",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "alphonso",
+    "name": "Alphonso",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "alten",
+    "name": "Alten",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "altimetrik",
+    "name": "Altimetrik",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "amadeus",
+    "name": "Amadeus",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "amdocs",
+    "name": "Amdocs",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "american-airlines",
+    "name": "American Airlines",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "american-express",
+    "name": "American Express",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "amplitude",
+    "name": "Amplitude",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "analytics-quotient",
+    "name": "Analytics Quotient",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "andela",
+    "name": "Andela",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "anduril",
+    "name": "Anduril",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "aon",
+    "name": "Aon",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "apolloio",
+    "name": "Apolloio",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "appdynamics",
+    "name": "Appdynamics",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "appfolio",
+    "name": "Appfolio",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "applied-intuition",
+    "name": "Applied Intuition",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "aqr-capital-management",
+    "name": "Aqr Capital Management",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "arcesium",
+    "name": "Arcesium",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "argo-ai",
+    "name": "Argo Ai",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "arista-networks",
+    "name": "Arista Networks",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "asana",
+    "name": "Asana",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ascend",
+    "name": "Ascend",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "athenahealth",
+    "name": "Athenahealth",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "att",
+    "name": "Att",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "attentive",
+    "name": "Attentive",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "audible",
+    "name": "Audible",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "auriga",
+    "name": "Auriga",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "autodesk",
+    "name": "Autodesk",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "avalara",
+    "name": "Avalara",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "avito",
+    "name": "Avito",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "axis-bank",
+    "name": "Axis Bank",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "axon",
+    "name": "Axon",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "baidu",
+    "name": "Baidu",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bank-of-america",
+    "name": "Bank Of America",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "barclays",
+    "name": "Barclays",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bcg",
+    "name": "Bcg",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bending-spoons",
+    "name": "Bending Spoons",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bill-com",
+    "name": "Bill Com",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bitgo",
+    "name": "Bitgo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "blackbuck",
+    "name": "Blackbuck",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "blackrock",
+    "name": "Blackrock",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "blackstone",
+    "name": "Blackstone",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "blend",
+    "name": "Blend",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bloomreach",
+    "name": "Bloomreach",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "blue-origin",
+    "name": "Blue Origin",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bnp-paribas",
+    "name": "Bnp Paribas",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bny-mellon",
+    "name": "Bny Mellon",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "boeing",
+    "name": "Boeing",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bolt",
+    "name": "Bolt",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bookingcom",
+    "name": "Bookingcom",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "box",
+    "name": "Box",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bp",
+    "name": "Bp",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "braze",
+    "name": "Braze",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bridgewater-associates",
+    "name": "Bridgewater Associates",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "brillio",
+    "name": "Brillio",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "broadcom",
+    "name": "Broadcom",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "bt-group",
+    "name": "Bt Group",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "buyhatke",
+    "name": "Buyhatke",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "c3-ai",
+    "name": "C3 Ai",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cadence",
+    "name": "Cadence",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "canonical",
+    "name": "Canonical",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "canva",
+    "name": "Canva",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "capgemini",
+    "name": "Capgemini",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "capital-one",
+    "name": "Capital One",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "careem",
+    "name": "Careem",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cars24",
+    "name": "Cars24",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "carwale",
+    "name": "Carwale",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cashfree",
+    "name": "Cashfree",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "caterpillar",
+    "name": "Caterpillar",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cerner",
+    "name": "Cerner",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "chargebee",
+    "name": "Chargebee",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "chewy",
+    "name": "Chewy",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "chime",
+    "name": "Chime",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "chubb",
+    "name": "Chubb",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ciena",
+    "name": "Ciena",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "circle",
+    "name": "Circle",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "citi",
+    "name": "Citi",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "citrix",
+    "name": "Citrix",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "clari",
+    "name": "Clari",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cleartrip",
+    "name": "Cleartrip",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "clevertap",
+    "name": "Clevertap",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cloudera",
+    "name": "Cloudera",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cloudflare",
+    "name": "Cloudflare",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "clutter",
+    "name": "Clutter",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cme-group",
+    "name": "Cme Group",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cockroach-labs",
+    "name": "Cockroach Labs",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "code-studio",
+    "name": "Code Studio",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "coditas",
+    "name": "Coditas",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cognizant",
+    "name": "Cognizant",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cohesity",
+    "name": "Cohesity",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "coindcx",
+    "name": "Coindcx",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "coinswitch-kuber",
+    "name": "Coinswitch Kuber",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "comcast",
+    "name": "Comcast",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "commvault",
+    "name": "Commvault",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "compass",
+    "name": "Compass",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "confluent",
+    "name": "Confluent",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "couchbase",
+    "name": "Couchbase",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "coupa",
+    "name": "Coupa",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "coupang",
+    "name": "Coupang",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "coursera",
+    "name": "Coursera",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "criteo",
+    "name": "Criteo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "crowdstrike",
+    "name": "CrowdStrike",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cruise-automation",
+    "name": "Cruise Automation",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ctc",
+    "name": "Ctc",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "curefit",
+    "name": "CureFit",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cvent",
+    "name": "Cvent",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cyntexa",
+    "name": "Cyntexa",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "cyware",
+    "name": "Cyware",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "dailyhunt",
+    "name": "Dailyhunt",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "darwinbox",
+    "name": "Darwinbox",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "dassault-sysetmes",
+    "name": "Dassault Sysetmes",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "dataart",
+    "name": "Dataart",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "datadog",
+    "name": "Datadog",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "dataminr",
+    "name": "Dataminr",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "deepmind",
+    "name": "Deepmind",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "delhivery",
+    "name": "Delhivery",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "deliveroo",
+    "name": "Deliveroo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "dell",
+    "name": "Dell",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "deloitte",
+    "name": "Deloitte",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "deltax",
+    "name": "Deltax",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "deutsche-bank",
+    "name": "Deutsche Bank",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "devrev",
+    "name": "Devrev",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "devsinc",
+    "name": "Devsinc",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "dialpad",
+    "name": "Dialpad",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "directi",
+    "name": "Directi",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "discovery",
+    "name": "Discovery",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "disney",
+    "name": "Disney",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "dji",
+    "name": "Dji",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "docusign",
+    "name": "Docusign",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "dp-world",
+    "name": "Dp World",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "drawbridge",
+    "name": "Drawbridge",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "druva",
+    "name": "Druva",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "dtcc",
+    "name": "Dtcc",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "dunzo",
+    "name": "Dunzo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "duolingo",
+    "name": "Duolingo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "earnin",
+    "name": "Earnin",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ebay",
+    "name": "eBay",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "edelweiss",
+    "name": "Edelweiss",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "elitmus",
+    "name": "Elitmus",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "envoy",
+    "name": "Envoy",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "epam-systems",
+    "name": "Epam Systems",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "epic-games",
+    "name": "Epic Games",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "epic-systems",
+    "name": "Epic Systems",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "epifi",
+    "name": "Epifi",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "equinix",
+    "name": "Equinix",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ericsson",
+    "name": "Ericsson",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "etsy",
+    "name": "Etsy",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "exl",
+    "name": "Exl",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "expedia",
+    "name": "Expedia",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ey",
+    "name": "Ey",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "f5-networks",
+    "name": "F5 Networks",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "factset",
+    "name": "Factset",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "faire",
+    "name": "Faire",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fallible",
+    "name": "Fallible",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fanatics",
+    "name": "Fanatics",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fast",
+    "name": "Fast",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fastenal",
+    "name": "Fastenal",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fico",
+    "name": "Fico",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fidelity",
+    "name": "Fidelity",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fidessa",
+    "name": "Fidessa",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fiverr",
+    "name": "Fiverr",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fivetran",
+    "name": "Fivetran",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "flatiron-health",
+    "name": "Flatiron Health",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fleetx",
+    "name": "Fleetx",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "flexera",
+    "name": "Flexera",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "flexport",
+    "name": "Flexport",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fortinet",
+    "name": "Fortinet",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "forusall",
+    "name": "Forusall",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fourkites",
+    "name": "Fourkites",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fpt",
+    "name": "Fpt",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fractal-analytics",
+    "name": "Fractal Analytics",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "freecharge",
+    "name": "Freecharge",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "freshworks",
+    "name": "Freshworks",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "fynd",
+    "name": "Fynd",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "gainsight",
+    "name": "Gainsight",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "gameskraft",
+    "name": "Gameskraft",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "garena",
+    "name": "Garena",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "garmin",
+    "name": "Garmin",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "gartner",
+    "name": "Gartner",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ge-digital",
+    "name": "Ge Digital",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ge-healthcare",
+    "name": "Ge Healthcare",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "geico",
+    "name": "Geico",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "general-electric",
+    "name": "General Electric",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "general-motors",
+    "name": "General Motors",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "gep",
+    "name": "Gep",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "gilt-groupe",
+    "name": "Gilt Groupe",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "github",
+    "name": "Github",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "glassdoor",
+    "name": "Glassdoor",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "glean",
+    "name": "Glean",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "globallogic",
+    "name": "Globallogic",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "glovo",
+    "name": "Glovo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "godaddy",
+    "name": "Godaddy",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "gojek",
+    "name": "Gojek",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "gopuff",
+    "name": "Gopuff",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "goto",
+    "name": "Goto",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "grab",
+    "name": "Grab",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "grammarly",
+    "name": "Grammarly",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "graviton",
+    "name": "Graviton",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "groupon",
+    "name": "Groupon",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "groww",
+    "name": "Groww",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "grubhub",
+    "name": "Grubhub",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "gsa-capital",
+    "name": "Gsa Capital",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "gsn-games",
+    "name": "Gsn Games",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "guidewire",
+    "name": "Guidewire",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "gusto",
+    "name": "Gusto",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "harness",
+    "name": "Harness",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hashedin",
+    "name": "Hashedin",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hbo",
+    "name": "Hbo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hcl",
+    "name": "Hcl",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "helix",
+    "name": "Helix",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hexaware",
+    "name": "Hexaware",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "highspot",
+    "name": "Highspot",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hilabs",
+    "name": "Hilabs",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hive",
+    "name": "Hive",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "honeywell",
+    "name": "Honeywell",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hopper",
+    "name": "Hopper",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hotstar",
+    "name": "Hotstar",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "houzz",
+    "name": "Houzz",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hp",
+    "name": "Hp",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hpe",
+    "name": "Hpe",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hrt",
+    "name": "Hrt",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hsbc",
+    "name": "Hsbc",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "htc",
+    "name": "Htc",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "huawei",
+    "name": "Huawei",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hubspot",
+    "name": "HubSpot",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "hulu",
+    "name": "Hulu",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "iit-bombay",
+    "name": "Iit Bombay",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "imc",
+    "name": "Imc",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "impact-analytics",
+    "name": "Impact Analytics",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "impetus",
+    "name": "Impetus",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "increff",
+    "name": "Increff",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "indeed",
+    "name": "Indeed",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "info-edge",
+    "name": "Info Edge",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "informatica",
+    "name": "Informatica",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "infosys",
+    "name": "Infosys",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "innovaccer",
+    "name": "Innovaccer",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "instabase",
+    "name": "Instabase",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "interactive-brokers",
+    "name": "Interactive Brokers",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "intercom",
+    "name": "Intercom",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ivp",
+    "name": "Ivp",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ixl",
+    "name": "Ixl",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "jd",
+    "name": "Jd",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "jeavio",
+    "name": "Jeavio",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "jingchi",
+    "name": "Jingchi",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "jio",
+    "name": "Jio",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "josh-technology",
+    "name": "Josh Technology",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "jtg",
+    "name": "Jtg",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "juspay",
+    "name": "Juspay",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "kakao",
+    "name": "Kakao",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "karat",
+    "name": "Karat",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "kickdrum",
+    "name": "Kickdrum",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "kla",
+    "name": "Kla",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "kla-tencor",
+    "name": "Kla Tencor",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "kotak-mahindra-bank",
+    "name": "Kotak Mahindra Bank",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "kpmg",
+    "name": "Kpmg",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "larsen-toubro",
+    "name": "Larsen Toubro",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "leap-motion",
+    "name": "Leap Motion",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "lendingkart",
+    "name": "Lendingkart",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "lg-electronics",
+    "name": "Lg Electronics",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "liberty-mutual",
+    "name": "Liberty Mutual",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "liftoff",
+    "name": "Liftoff",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "lime",
+    "name": "Lime",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "line",
+    "name": "Line",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "liveramp",
+    "name": "Liveramp",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "livspace",
+    "name": "Livspace",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "lowe",
+    "name": "Lowe",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "lti",
+    "name": "Lti",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "lucid",
+    "name": "Lucid",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "luxoft",
+    "name": "Luxoft",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "machine-zone",
+    "name": "Machine Zone",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "machinezone",
+    "name": "Machinezone",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "maersk",
+    "name": "Maersk",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "makemytrip",
+    "name": "Makemytrip",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mapbox",
+    "name": "Mapbox",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "maq-software",
+    "name": "Maq Software",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "marqeta",
+    "name": "Marqeta",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mastercard",
+    "name": "Mastercard",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mathworks",
+    "name": "Mathworks",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mcafee",
+    "name": "Mcafee",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mcdonalds",
+    "name": "Mcdonalds",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mckinsey",
+    "name": "Mckinsey",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "medianet",
+    "name": "Medianet",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "meituan",
+    "name": "Meituan",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mercari",
+    "name": "Mercari",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "micro1",
+    "name": "Micro1",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "microstrategy",
+    "name": "Microstrategy",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "millennium",
+    "name": "Millennium",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mindtickle",
+    "name": "Mindtickle",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mindtree",
+    "name": "Mindtree",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mishipay",
+    "name": "Mishipay",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mitsogo",
+    "name": "Mitsogo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mixpanel",
+    "name": "Mixpanel",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mobileye",
+    "name": "Mobileye",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mobisy",
+    "name": "Mobisy",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "moengage",
+    "name": "Moengage",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "moloco",
+    "name": "Moloco",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "moneylion",
+    "name": "Moneylion",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mongodb",
+    "name": "Mongodb",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "motive",
+    "name": "Motive",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "moveworks",
+    "name": "Moveworks",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mphasis",
+    "name": "Mphasis",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "msci",
+    "name": "Msci",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "murex",
+    "name": "Murex",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "mykaarma",
+    "name": "Mykaarma",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "myntra",
+    "name": "Myntra",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nagarro",
+    "name": "Nagarro",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nasdaq",
+    "name": "Nasdaq",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "national-instruments",
+    "name": "National Instruments",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "national-payments-coorperation-india",
+    "name": "National Payments Coorperation India",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "natwest",
+    "name": "Natwest",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "navan",
+    "name": "Navan",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "naver",
+    "name": "Naver",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "navi",
+    "name": "Navi",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ncr",
+    "name": "Ncr",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nebius",
+    "name": "Nebius",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nerdwallet",
+    "name": "Nerdwallet",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "netapp",
+    "name": "Netapp",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "netcracker-technology",
+    "name": "Netcracker Technology",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "netease",
+    "name": "Netease",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "netskope",
+    "name": "Netskope",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "netsuite",
+    "name": "Netsuite",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "newsbreak",
+    "name": "Newsbreak",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nextdoor",
+    "name": "Nextdoor",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nextjump",
+    "name": "Nextjump",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "niantic",
+    "name": "Niantic",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nielsen",
+    "name": "Nielsen",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nike",
+    "name": "Nike",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nokia",
+    "name": "Nokia",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "noon",
+    "name": "Noon",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nordstrom",
+    "name": "Nordstrom",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nuro",
+    "name": "Nuro",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nutanix",
+    "name": "Nutanix",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "nykaa",
+    "name": "Nykaa",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "observeai",
+    "name": "Observeai",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "odoo",
+    "name": "Odoo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "okta",
+    "name": "Okta",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "okx",
+    "name": "Okx",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "olx",
+    "name": "Olx",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "opentext",
+    "name": "Opentext",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "oppo",
+    "name": "Oppo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "optum",
+    "name": "Optum",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "oscar-health",
+    "name": "Oscar Health",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "otterai",
+    "name": "Otterai",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ozon",
+    "name": "Ozon",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "palo-alto-networks",
+    "name": "Palo Alto Networks",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "park",
+    "name": "Park",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "patreon",
+    "name": "Patreon",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "paycom",
+    "name": "Paycom",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "paypay",
+    "name": "Paypay",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "payu",
+    "name": "Payu",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "peak6",
+    "name": "Peak6",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "pega",
+    "name": "Pega",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "peloton",
+    "name": "Peloton",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "persistent-systems",
+    "name": "Persistent Systems",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "philips",
+    "name": "Philips",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "pickrr",
+    "name": "Pickrr",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "plaid",
+    "name": "Plaid",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "playsimple",
+    "name": "Playsimple",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "pocket-gems",
+    "name": "Pocket Gems",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "point72",
+    "name": "Point72",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "polar",
+    "name": "Polar",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ponyai",
+    "name": "Ponyai",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "pornhub",
+    "name": "Pornhub",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "porter",
+    "name": "Porter",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "poshmark",
+    "name": "Poshmark",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "postmates",
+    "name": "Postmates",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "poynt",
+    "name": "Poynt",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "publicis-sapient",
+    "name": "Publicis Sapient",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "pubmatic",
+    "name": "Pubmatic",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "pure",
+    "name": "Pure",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "pure-storage",
+    "name": "Pure Storage",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "purplle",
+    "name": "Purplle",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "pwc",
+    "name": "Pwc",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "qualtrics",
+    "name": "Qualtrics",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "qualys",
+    "name": "Qualys",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "quantcast",
+    "name": "Quantcast",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "quantiphi",
+    "name": "Quantiphi",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "quince",
+    "name": "Quince",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "quora",
+    "name": "Quora",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "rackspace",
+    "name": "Rackspace",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "radius",
+    "name": "Radius",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "rakuten",
+    "name": "Rakuten",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "rally-health",
+    "name": "Rally Health",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ramp-2",
+    "name": "Ramp 2",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "rbc",
+    "name": "Rbc",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "redbus",
+    "name": "Redbus",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "redfin",
+    "name": "Redfin",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "reliance-retails",
+    "name": "Reliance Retails",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "remitly",
+    "name": "Remitly",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "remotestate",
+    "name": "Remotestate",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "retailmenot",
+    "name": "Retailmenot",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "revolut",
+    "name": "Revolut",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "riot-games",
+    "name": "Riot Games",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ripple",
+    "name": "Ripple",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "rippling",
+    "name": "Rippling",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "rivian",
+    "name": "Rivian",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "rokt",
+    "name": "Rokt",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "roku",
+    "name": "Roku",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "rubrik",
+    "name": "Rubrik",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "rupeek",
+    "name": "Rupeek",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "sambanova",
+    "name": "Sambanova",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "samsara",
+    "name": "Samsara",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "scaler",
+    "name": "Scaler",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "schlumberger",
+    "name": "Schlumberger",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "schneider-electric",
+    "name": "Schneider Electric",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "schrodinger",
+    "name": "Schrodinger",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "sentry",
+    "name": "Sentry",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "sharechat",
+    "name": "Sharechat",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "shift-technology",
+    "name": "Shift Technology",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "shipsy",
+    "name": "Shipsy",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "shopback",
+    "name": "Shopback",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "shopee",
+    "name": "Shopee",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "shopify",
+    "name": "Shopify",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "shopup",
+    "name": "Shopup",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "siemens",
+    "name": "Siemens",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "sig",
+    "name": "Sig",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "sigmoid",
+    "name": "Sigmoid",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "singlestore",
+    "name": "Singlestore",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "sixt",
+    "name": "Sixt",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "slice",
+    "name": "Slice",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "smartnews",
+    "name": "Smartnews",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "smartsheet",
+    "name": "Smartsheet",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "snapdeal",
+    "name": "Snapdeal",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "societe-generale",
+    "name": "Societe Generale",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "sofi",
+    "name": "Sofi",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "softwire",
+    "name": "Softwire",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "sonatus",
+    "name": "Sonatus",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "sony",
+    "name": "Sony",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "soti",
+    "name": "Soti",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "soundhound",
+    "name": "Soundhound",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "spacex",
+    "name": "Spacex",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "spinny",
+    "name": "Spinny",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "splunk",
+    "name": "Splunk",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "sprinklr",
+    "name": "Sprinklr",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "square",
+    "name": "Square / Block",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "squarepoint-capital",
+    "name": "Squarepoint Capital",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "squarespace",
+    "name": "Squarespace",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "src",
+    "name": "Src",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "stackadapt",
+    "name": "Stackadapt",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "stackline",
+    "name": "Stackline",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "state-farm",
+    "name": "State Farm",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "strava",
+    "name": "Strava",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "sumologic",
+    "name": "Sumologic",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "syfe",
+    "name": "Syfe",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "symantec",
+    "name": "Symantec",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "synopsys",
+    "name": "Synopsys",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ta-digital",
+    "name": "Ta Digital",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tableau",
+    "name": "Tableau",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tanium",
+    "name": "Tanium",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "target",
+    "name": "Target",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tcs",
+    "name": "Tcs",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tech-mahindra",
+    "name": "Tech Mahindra",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "techolution",
+    "name": "Techolution",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tekion",
+    "name": "Tekion",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tencent",
+    "name": "Tencent",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "teradata",
+    "name": "Teradata",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tesco",
+    "name": "Tesco",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "texas-instruments",
+    "name": "Texas Instruments",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "the-trade-desk",
+    "name": "The Trade Desk",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "thomson-reuters",
+    "name": "Thomson Reuters",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "thoughtspot",
+    "name": "Thoughtspot",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "thoughtworks",
+    "name": "Thoughtworks",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "thousandeyes",
+    "name": "Thousandeyes",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "thumbtack",
+    "name": "Thumbtack",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tiaa",
+    "name": "Tiaa",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tiger-analytics",
+    "name": "Tiger Analytics",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tiktok",
+    "name": "Tiktok",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tinder",
+    "name": "Tinder",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tinkoff",
+    "name": "Tinkoff",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "toast",
+    "name": "Toast",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tokopedia",
+    "name": "Tokopedia",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tomtom",
+    "name": "Tomtom",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "toptal",
+    "name": "Toptal",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tower-research",
+    "name": "Tower Research",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "toyota",
+    "name": "Toyota",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tracxn",
+    "name": "Tracxn",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "traveloka",
+    "name": "Traveloka",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "trend-micro",
+    "name": "Trend Micro",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "trexquant",
+    "name": "Trexquant",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "trilogy",
+    "name": "Trilogy",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tripactions",
+    "name": "Tripactions",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tripadvisor",
+    "name": "Tripadvisor",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "triplebyte",
+    "name": "Triplebyte",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "turing",
+    "name": "Turing",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "turvo",
+    "name": "Turvo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "tusimple",
+    "name": "Tusimple",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "twilio",
+    "name": "Twilio",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "twitter",
+    "name": "Twitter",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ubisoft",
+    "name": "Ubisoft",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ubs",
+    "name": "Ubs",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "udemy",
+    "name": "Udemy",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "uipath",
+    "name": "Uipath",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ukg",
+    "name": "Ukg",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "unbxd",
+    "name": "Unbxd",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "unifyapps",
+    "name": "Unifyapps",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "unity",
+    "name": "Unity",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "unstop",
+    "name": "Unstop",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "upstart",
+    "name": "Upstart",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "urban-company",
+    "name": "Urban Company",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "usaa",
+    "name": "Usaa",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ust",
+    "name": "Ust",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "valve",
+    "name": "Valve",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "veeva",
+    "name": "Veeva",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "verily",
+    "name": "Verily",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "veritas",
+    "name": "Veritas",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "verizon",
+    "name": "Verizon",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "verkada",
+    "name": "Verkada",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "viasat",
+    "name": "Viasat",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "vimeo",
+    "name": "Vimeo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "virtu",
+    "name": "Virtu",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "virtusa",
+    "name": "Virtusa",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "visa",
+    "name": "Visa",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "vk",
+    "name": "Vk",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "walmart-labs",
+    "name": "Walmart Labs",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "warnermedia",
+    "name": "Warnermedia",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "wayfair",
+    "name": "Wayfair",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "waymo",
+    "name": "Waymo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "wayve",
+    "name": "Wayve",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "wealthfront",
+    "name": "Wealthfront",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "wells-fargo",
+    "name": "Wells Fargo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "weride",
+    "name": "Weride",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "western-digital",
+    "name": "Western Digital",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "whatfix",
+    "name": "Whatfix",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "whatnot",
+    "name": "Whatnot",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "winzo",
+    "name": "Winzo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "wipro",
+    "name": "Wipro",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "wise",
+    "name": "Wise",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "wish",
+    "name": "Wish",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "wissen",
+    "name": "Wissen",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "wix",
+    "name": "Wix",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "workday",
+    "name": "Workday",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "works-applications",
+    "name": "Works Applications",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "worldquant",
+    "name": "Worldquant",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "woven-by-toyota",
+    "name": "Woven By Toyota",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "xing",
+    "name": "Xing",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "yahoo",
+    "name": "Yahoo",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "yandex",
+    "name": "Yandex",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "yatra",
+    "name": "Yatra",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "yelp",
+    "name": "Yelp",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "yugabyte",
+    "name": "Yugabyte",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zalando",
+    "name": "Zalando",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zappos",
+    "name": "Zappos",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zemoso",
+    "name": "Zemoso",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zendesk",
+    "name": "Zendesk",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zenefits",
+    "name": "Zenefits",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zeta",
+    "name": "Zeta",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zeta-suite",
+    "name": "Zeta Suite",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zillow",
+    "name": "Zillow",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zip",
+    "name": "Zip",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "ziprecruiter",
+    "name": "Ziprecruiter",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zluri",
+    "name": "Zluri",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zocdoc",
+    "name": "Zocdoc",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zoho",
+    "name": "Zoho",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zoom",
+    "name": "Zoom",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zoox",
+    "name": "Zoox",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zopsmart",
+    "name": "Zopsmart",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zs-associates",
+    "name": "Zs Associates",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zscaler",
+    "name": "Zscaler",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zulily",
+    "name": "Zulily",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  },
+  {
+    "id": "zynga",
+    "name": "Zynga",
+    "tier": "Top Tech",
+    "logo": "corporate_fare"
+  }
+]

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="hulkGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4ADE80"/>
+      <stop offset="50%" stop-color="#16A34A"/>
+      <stop offset="100%" stop-color="#14532D"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="url(#hulkGreen)" stroke="#14532D" stroke-width="2"/>
+  <path d="M24,42 Q28,16 50,18 Q72,16 76,42 Q68,28 58,30 Q50,22 42,30 Q32,28 24,42 Z" fill="#0F172A"/>
+  <path d="M30,44 Q42,48 50,44 Q58,48 70,44" stroke="#052E16" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <polygon points="36,49 44,48 42,52 38,53" fill="#DCFCE7"/>
+  <circle cx="41" cy="50" r="1.5" fill="#14532D"/>
+  <polygon points="64,49 56,48 58,52 62,53" fill="#DCFCE7"/>
+  <circle cx="59" cy="50" r="1.5" fill="#14532D"/>
+  <path d="M46,56 L50,58 L54,56" stroke="#052E16" stroke-width="2" fill="none"/>
+  <path d="M36,68 Q50,64 64,68 Q60,78 50,79 Q40,78 36,68 Z" fill="#FFFFFF" stroke="#052E16" stroke-width="1.8"/>
+  <line x1="42" y1="68" x2="42" y2="74" stroke="#052E16" stroke-width="1.2"/>
+  <line x1="50" y1="67" x2="50" y2="75" stroke="#052E16" stroke-width="1.2"/>
+  <line x1="58" y1="68" x2="58" y2="74" stroke="#052E16" stroke-width="1.2"/>
+  <path d="M28,86 Q50,76 72,86 L76,96 L24,96 Z" fill="#7E22CE" opacity="0.85"/>
+</svg>
